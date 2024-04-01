@@ -4,5 +4,4 @@
 *.elf
 *.cmd
 *.bat
-*.zip
 1-cppcheck-build-dir/
